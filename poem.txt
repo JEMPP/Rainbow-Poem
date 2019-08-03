@@ -6,5 +6,6 @@ Gelb
 Grün
 Blau
 Lila
+Magenta
 
 Dies sind die Regenbogenfarben!
